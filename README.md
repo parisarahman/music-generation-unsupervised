@@ -33,7 +33,7 @@ music-generation-unsupervised/
 │   └── plots/                       # All plots (see the Drive Link Below)
 │
 └── report/
-    ├── final_report.tex             # LaTeX source for final report
+    ├── Report.pdf
 ```
 
 ---
