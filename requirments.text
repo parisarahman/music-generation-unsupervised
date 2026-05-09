@@ -1,0 +1,9 @@
+pretty_midi
+music21
+miditok
+torch
+numpy
+pandas
+matplotlib
+scikit-learn
+tqdm
