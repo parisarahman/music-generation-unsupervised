@@ -24,9 +24,8 @@ music-generation-unsupervised/
 │
 ├── data/                            # Dataset stored on Google Drive (link below)
 │
-├── notebooks/
-│   ├── CSE425_Project.ipynb         # Preprocessing + LSTM AE + VAE + Baseline
-│   └── Transformer.ipynb            # Tokenization + Transformer model + Model Comparison
+│── CSE425_Project.ipynb         # Preprocessing + LSTM AE + VAE + Baseline
+│── Transformer.ipynb            # Tokenization + Transformer model + Model Comparison
 │
 ├── outputs/
 │   ├── generated_midis/             # All model-generated MIDI files (see Drive link below)
