@@ -30,7 +30,7 @@ music-generation-unsupervised/
 │
 ├── outputs/
 │   ├── generated_midis/             # All model-generated MIDI files (see Drive link below)
-│   └── plots/                       # Loss curves, piano rolls, histograms
+│   └── plots/                       # All plots (see the Drive Link Below)
 │
 └── report/
     ├── final_report.tex             # LaTeX source for final report
@@ -144,6 +144,13 @@ pip install -r requirements.txt
 | LSTM Autoencoder | 0.0882 | 0.0659 | 0.0000 | — |
 | VAE | **0.7369** | **0.5000** | 0.0000 | — |
 | Transformer | 0.5183 | 0.3942 | 0.0014 | **1.1062** |
+
+---
+## Plots
+
+All Plots are stored on Google Drive:
+
+https://drive.google.com/drive/folders/1a7jL5_nY15QeaPTbBMLRYnP1vUH91dnv?usp=sharing
 
 ---
 
